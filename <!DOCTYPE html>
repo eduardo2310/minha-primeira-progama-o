@@ -2,25 +2,25 @@
 <html lang="pt" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Pães Edu</title>
     <link rel="stylesheet"href="index.css">
   </head>
     <body>
 
       <header>
     <div class="texto principal">
-      <h1>Curso técnico para alunos do ensino fundamental</h1>
+      <h1>Padaria</h1>
       <img id="imagem principal" src="coding-image.png">
 
-      <h2>Este curso tem como objetivo <b>aspectos técnicos</b>  de praticantes da modalidade no ensino fundamental</h2>
-      <p>Este, faz parte do projeto social da modalidade o qual é dedicado a alunos do estado do Paraná</p>
+      <h2>Esta loja tem como objetivo oferecer os melhores produtos para os clientes</h2>
+      <p>Oferecemos pães de todos os tamanhos, formatos e sabores</p>
           </div>
           <div>class="lista">
-            <h2>Quais os cursos específicos que são oferecidos</h2>
+            <h2>Quais os pães específicos que são oferecidos</h2>
             <ul>
-              <li class="itens">Katá</li>
-              <li class="itens">Kihon</li>
-              <li class="itens">Kumitê</li>
+              <li class="itens">Pão francêS</li>
+              <li class="itens">Baguette</li>
+              <li class="itens">Pão sírio</li>
             </ul>
           </div>
   </body>
