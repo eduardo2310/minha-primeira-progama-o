@@ -1,23 +1,18 @@
 body {
-    background: #CCCCCC
+    background-color: bisque;
 }
 
-#banner {
-    width: 100%;
+header {
+    background-color: blue;
 }
 
-h1 {
-    text-align: center
+nav li {
+    display: inline;
+     background-color: brown;
 }
-
-p {
-    text-align: center;
-}
-
-#missao {
-    font-size: 20px
-}
-
-em strong {
-    color: #FF0000;
+ 
+nav  {
+    border: cornflowerblue 5px dashed;
+    margin: 0 0 0 15px;
+    padding: 20px;
 }
